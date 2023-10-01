@@ -1,1 +1,1 @@
-console.log("感谢您的浏览，期待能够加入贵公司！我的博客：http://if2er.com/");
+console.log("Thank you for your viewing. Looking forward to join your company! My github Repository: https://github.com/Replicater/Replicater.github.io");
