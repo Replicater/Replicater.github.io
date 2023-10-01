@@ -1,1 +1,1 @@
-console.log("Thank you for your viewing. Looking forward to join your company! My github Repository: https://github.com/Replicater/Replicater.github.io");
+console.log("Thank you for your viewing. Looking forward to join your company!");
